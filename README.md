@@ -21,7 +21,7 @@
 - 🦾 Agentic AI and building autonomous AI agents  
 - 🏢 Multi-Context Prompting (MCP) for advanced LLM interactions  
 - 📚 Retrieval-Augmented Generation (RAG) with LLMs  
-- 🤖 LLaMA3, vision transformers, state-of-the-art MLOps, DeepLabV3+ segmentation
+- 🤖 LLaMA3, vision transformers, state-of-the-art MLOps, CLIP, BLIP and StabLE Diffusion
 
 💬 Ask me about  
 - 🚢 Deploying ML models (Python, FastAPI, Docker, AWS)  
