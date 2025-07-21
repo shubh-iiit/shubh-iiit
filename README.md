@@ -1,7 +1,39 @@
 ## Hi there👋 I'm Shubham Pundhir! Empowering real-world impact through ML, Agentic AI, and LLM innovation | M.S. Machine Learning @ IIIT Delhi | AI for Good | MCP, RAG, CV & NLP Enthusiast | Top-4 Build AI for Bharat Fellow 
 
 # 💫 About Me:
-🛠️ I’m currently working on:<br><br>1. 🚀 Building ML models for large-scale data analytics (economics, NLP, CV).<br><br>2. 🍳 Exploring generative AI & LLMs for real-world recipe generation and multimodal NLP.<br><br><br>1 🤝 I’m looking to collaborate on:<br><br>1. 🧑‍💻 Open-source data science & ML projects.<br><br>2. 🌱 AI for social good, Rural development, and Government data systems.<br><br>3. 🚀 End-to-end ML deployment (Docker, FastAPI, AWS)<br><br>✋ I’m looking for help with:<br><br>1. ☁️ Scaling production ML (Kubernetes, AWS, Azure).<br><br>2. 📈 Research in interpretable and explainable AI.<br><br>3.🌍 Optimizing LLMs for low-resource and latency.<br><br>🌱 I’m currently learning:<br><br>1. 🦾 Agentic AI and autonomous system design.<br><br>2. 🏢 MCP (Multi-Context Prompting) for adaptive AI interactions.<br><br>💬 Ask me about:<br><br>1. 🚢 Deploying ML models (Python, FastAPI, Docker, AWS).<br><br>2. 🔗 Building robust ML data pipelines.<br><br>3. 🌐 Multilingual NLP (Indian languages).<br><br>4. 🕵️‍♂️ Model interpretability (SHAP, feature engineering tips)<br><br>⚡ Fun fact:<br><br>🏆 Top-4 Data Science Fellow (‘Build AI for Bharat’ Fellowship, 25,000+ applicants)<br><br>🛣️ Co-developed AI adopted by India's Ministry of Rural Development for road hazard detection<br><br>🍲 I use NLP and LLMs to generate custom recipes—AI really can help you cook!🔭 I’m currently working on<br>
+
+🛠️ I’m currently working on  
+- 🚀 Designing and deploying ML models for large-scale analytics in economics, NLP, and computer vision  
+- 🍳 Advancing generative AI & LLMs for structured recipe generation and multimodal NLP  
+- 🛰️ Researching agentic AI and multi-context prompting (MCP) in adaptive, autonomous systems  
+
+🧑‍🤝‍🧑 I’m looking to collaborate on  
+- 💡 Open-source data science and ML initiatives  
+- 🌱 AI for social impact, rural development, and government data systems  
+- ☁️ End-to-end ML deployment with Docker, FastAPI, and AWS  
+
+🤝 I’m looking for help with  
+- 🏗️ Scaling ML systems to production (Kubernetes, AWS, Azure)  
+- 🕵️ Research in interpretable and explainable AI  
+- 🌍 Optimizing LLMs for low-resource and high-latency scenarios  
+
+🌱 I’m currently learning  
+- 🦾 Agentic AI and building autonomous AI agents  
+- 🏢 Multi-Context Prompting (MCP) for advanced LLM interactions  
+- 📚 Retrieval-Augmented Generation (RAG) with LLMs  
+- 🤖 LLaMA3, vision transformers, state-of-the-art MLOps, DeepLabV3+ segmentation
+
+💬 Ask me about  
+- 🚢 Deploying ML models (Python, FastAPI, Docker, AWS)  
+- 🔗 Robust and scalable ML pipelines  
+- 🌐 Multilingual NLP in Indian languages  
+- 🕵️‍♂️ Model interpretability, SHAP, and advanced feature engineering
+
+⚡ Fun fact  
+- 🏆 Top-4 Data Science Fellow (‘Build AI for Bharat’ Fellowship, 25,000+ applicants)  
+- 🛣️ Co-developed AI for road hazard detection adopted by India's Ministry of Rural Development  
+- 🍲 I use NLP and LLMs to generate creative, personalized recipes—AI really can help you cook!
+
 
 
 ## 🌐 Socials:
