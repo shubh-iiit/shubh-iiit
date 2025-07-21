@@ -1,4 +1,4 @@
-## Hi there👋 I'm Shubham Pundhir! Empowering real-world impact through ML, Agentic AI, and LLM innovation | M.S. Machine Learning @ IIIT Delhi | AI for Good | MCP, RAG, CV & NLP Enthusiast | Top-4 Build AI for Bharat Fellow 
+## Hi there👋 I'm Shubham Pundhir! | Empowering real-world impact through ML, Agentic AI, and LLM innovation | M.S. Machine Learning @ IIIT Delhi | AI for Good | MCP, RAG, CV & NLP Enthusiast | Top-4 Build AI for Bharat Fellow 
 
 # 💫 About Me:
 
