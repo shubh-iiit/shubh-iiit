@@ -12,11 +12,6 @@
 - 🌱 AI for social impact, rural development, and government data systems  
 - ☁️ End-to-end ML deployment with Docker, FastAPI, and AWS  
 
-🤝 I’m looking for help with  
-- 🏗️ Scaling ML systems to production (Kubernetes, AWS, Azure)  
-- 🕵️ Research in interpretable and explainable AI  
-- 🌍 Optimizing LLMs for low-resource and high-latency scenarios  
-
 🌱 I’m currently learning  
 - 🦾 Agentic AI and building autonomous AI agents  
 - 🏢 Multi-Context Prompting (MCP) for advanced LLM interactions  
@@ -25,7 +20,7 @@
 
 💬 Ask me about  
 - 🚢 Deploying ML models (Python, FastAPI, Docker, AWS)  
-- 🔗 Robust and scalable ML pipelines  
+- 🔗 Scaling ML systems to production (Kubernetes, AWS, Azure)  
 - 🌐 Multilingual NLP in Indian languages  
 - 🕵️‍♂️ Model interpretability, SHAP, and advanced feature engineering
 
